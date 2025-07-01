@@ -1,0 +1,8 @@
+*.ipynb_checkpoints
+code/*.do
+*tmp*
+data/datadotgov_ais22_programs.csv
+data/datadotgov_ais21_programs.csv
+presentations/*.pptx
+*.docx
+admin
