@@ -18,9 +18,8 @@ The course programme can be viewed here:
 ### Materials
 
 The training materials can be found in the following folders:
-* [code](./code) - Jupyter Notebooks and syntax files containing executable Python and R code.
+* [code](./code) - Jupyter Notebooks containing executable Python code.
 * [installation](./installation) - Guidance on installing software on your own machines.
-* [presentations](./presentations) - PDFs and recordings of the course lectures.
 * [reading](./reading) - lists of interesting and relevant reading materials.
 
 ## Acknowledgements
